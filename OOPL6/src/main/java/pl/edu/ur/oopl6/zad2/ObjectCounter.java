@@ -17,3 +17,4 @@ public class ObjectCounter {
         Punkt.PokazOstatniObiekt();
     }
 }
+// Program losuje liczby i sprawdza ile obiektow istnieje w klasie
